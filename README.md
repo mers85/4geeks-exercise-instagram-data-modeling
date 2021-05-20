@@ -34,3 +34,6 @@ The project is using the SQLAlchemy Python library to generate the database.
 - Degenerate the diagram.png file at the end by running `$ python3 models.py` on the console.
 
 
+## Mers Diagrams
+
+https://app.quickdatabasediagrams.com/#/d/fxhWhN
